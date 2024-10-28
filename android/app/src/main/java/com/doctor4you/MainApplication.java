@@ -1,4 +1,4 @@
-package com.doctor4you;
+package com.santeplus;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "Doctor4You.app"
-               BlueprintName = "Doctor4You"
-               ReferencedContainer = "container:Doctor4You.xcodeproj">
+               BuildableName = "santeplus.app"
+               BlueprintName = "santeplus"
+               ReferencedContainer = "container:santeplus.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "Doctor4YouTests.xctest"
-               BlueprintName = "Doctor4YouTests"
-               ReferencedContainer = "container:Doctor4You.xcodeproj">
+               BuildableName = "santeplusTests.xctest"
+               BlueprintName = "santeplusTests"
+               ReferencedContainer = "container:santeplus.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "Doctor4You.app"
-            BlueprintName = "Doctor4You"
-            ReferencedContainer = "container:Doctor4You.xcodeproj">
+            BuildableName = "santeplus.app"
+            BlueprintName = "santeplus"
+            ReferencedContainer = "container:santeplus.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "Doctor4You.app"
-            BlueprintName = "Doctor4You"
-            ReferencedContainer = "container:Doctor4You.xcodeproj">
+            BuildableName = "santeplus.app"
+            BlueprintName = "santeplus"
+            ReferencedContainer = "container:santeplus.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
